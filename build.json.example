@@ -1,0 +1,18 @@
+{
+	"version": 5,
+	"software": {
+		"animate": "/path/to/adobe_animate",
+		"python": "/path/to/python_27"
+	},
+	"game": {
+		"force": true,
+		"folder": "/path/to/wot_dir",
+		"version": "wot_version"
+	},
+	"info": {
+		"id": "net.openwg.gameface",
+		"name": "net.openwg.gameface",
+		"description": "Generate res_map.json file with mod items for ingame UiResourceManager, provide Gameface injector and wrappers",
+		"version": "1.0.0"
+	}
+}
